@@ -3,4 +3,7 @@ name = "simple-ffmpeg"
 version = "1.0.0"
 edition = "2021"
 
+description = "Simple zero-dependency single-file Rust crate for generating videos with ffmpeg"
+license = "WTFPL"
+
 [dependencies]
